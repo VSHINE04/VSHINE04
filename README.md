@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vshine04" alt="vshine04" /></a> </p>
 
-- 🔭 I’m currently working on [CodeQuest](a project aimed at helping users strengthen coding skills through challenges and guided practice.)
+- 🔭 I’m currently working on CodeQuest(a project aimed at helping users strengthen coding skills through challenges and guided practice.)
 
 - 🌱 I’m currently learning **MERN Stack and exploring AI integrations in web apps.**
 
